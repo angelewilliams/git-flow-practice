@@ -1,4 +1,4 @@
-Chores List for prohject:
+Chores List for project:
 1.
 2.
 3.
